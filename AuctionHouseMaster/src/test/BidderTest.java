@@ -7,6 +7,12 @@ import org.junit.Test;
 
 import static org.junit.Assert.assertEquals;
 
+/**
+ *
+ * James Yoo 2017 ©
+ *
+ */
+
 public class BidderTest {
 
     private static double DELTA = 0.05;

@@ -7,6 +7,12 @@ import org.junit.Test;
 
 import static org.junit.Assert.*;
 
+/**
+ *
+ * James Yoo 2017 ©
+ *
+ */
+
 public class AuctioneerTest {
 
     private static double DELTA = 0.05;

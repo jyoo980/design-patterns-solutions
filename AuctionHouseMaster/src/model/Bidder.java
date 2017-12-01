@@ -2,6 +2,12 @@ package model;
 
 import java.util.Random;
 
+/**
+ *
+ * James Yoo 2017 ©
+ *
+ */
+
 public class Bidder implements Observer {
 
     private String name;

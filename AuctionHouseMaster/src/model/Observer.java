@@ -1,5 +1,11 @@
 package model;
 
+/**
+ *
+ * James Yoo 2017 ©
+ *
+ */
+
 public interface Observer {
 
     /**

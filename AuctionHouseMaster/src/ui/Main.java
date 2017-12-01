@@ -6,6 +6,12 @@ import model.Bidder;
 import java.util.ArrayList;
 import java.util.Scanner;
 
+/**
+ *
+ * James Yoo 2017 ©
+ *
+ */
+
 public class Main {
 
     private static Scanner userInput = new Scanner(System.in);
